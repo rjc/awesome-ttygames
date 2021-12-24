@@ -84,6 +84,11 @@
 - name: alienwave
   url: https://www.alessandropira.org/alienwave/aw.html
   info: another good variant of the space invaders game.
+  
+- name: Allure of the Stars
+  url: http://www.allureofthestars.com/
+  info: near-future Sci-Fi roguelike and tactical squad combat game; emulates a terminal, but with --frontendANSI runs on normal Unix terminal
+  screencast: http://www.allureofthestars.com/play  
 
 - name: angband
   url: https://rephial.org/
@@ -468,6 +473,11 @@
   url: https://man.openbsd.org/fish.6
   info: "Play ``Go Fish''. It's a BSD game."
   wikipedia: https://en.wikipedia.org/wiki/Go_Fish
+
+- name: flying-robots
+  url: https://github.com/bunburya/flying-robots
+  info: "Based on the BSD robots game, but with a third dimension of movement. Call with the `--curses` flag to get a curses interface." 
+  screencast: https://asciinema.org/a/j13HpVNjBpP4CzSru9hKTrtIh
 
 - name: fortune
   wikipedia: https://en.wikipedia.org/wiki/Fortune_%28Unix%29
